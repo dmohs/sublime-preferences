@@ -10,6 +10,7 @@
 	[
 		"Vintage"
 	],
+	"hot_exit": false,
 	"match_brackets_content": false,
 	"rulers":
 	[
